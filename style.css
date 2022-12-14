@@ -188,6 +188,11 @@ span{
     margin: 5px;
     cursor: pointer;
 }
+    
+.style{
+    background-color: #0000ff;
+    color: white;
+}
 
     .footer{
         width: 500%;
